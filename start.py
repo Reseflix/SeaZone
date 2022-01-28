@@ -1,3 +1,3 @@
-from pandaData import datacsv
+from pandaData import main
 
-datacsv()
+main()
